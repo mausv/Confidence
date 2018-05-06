@@ -1,0 +1,41 @@
+id,nombre,marca,categoriaid,categoria,cantidad,fecha
+L001,Fenty Beauty,Fenty Beauty,LAB,Labiales,2,27/02/2018
+L002,Fenty Beauty(Delgados),Fenty Beauty ,LAB,Labiales,4,28/02/2018
+L003,Anastasia,Anastasia,LAB,Labiales,2,28/03/2018
+L004,MAC,MAC,LAB,Labiales,4,29/03/2018
+L005,MAC retro ,MAC,LAB,Labiales,2,10/1/2018
+L005,MAC retro ,MAC,LAB,Labiales,4,10/2/2018
+L005,MAC retro ,MAC,LAB,Labiales,6,10/3/2018
+L005,MAC retro ,MAC,LAB,Labiales,8,10/4/2018
+L005,MAC retro ,MAC,LAB,Labiales,10,10/5/2018
+L005,MAC retro ,MAC,LAB,Labiales,12,10/6/2018
+L005,MAC retro ,MAC,LAB,Labiales,14,10/7/2018
+L005,MAC retro ,MAC,LAB,Labiales,16,10/8/2018
+L005,MAC retro ,MAC,LAB,Labiales,18,10/9/2018
+L005,MAC retro ,MAC,LAB,Labiales,20,10/10/2018
+L005,MAC retro ,MAC,LAB,Labiales,22,10/11/2018
+L005,MAC retro ,MAC,LAB,Labiales,24,10/12/2018
+L006,MAC retro rosa,MAC,LAB,Labiales,4,29/04/2018
+L007,Kylie,Kylie,LAB,Labiales,2,28/05/2018
+L008,Set 5 Kylie,Kylie,LAB,Labiales,4,29/05/2018
+L009,Set Chanel,Channel,LAB,Labiales,2,28/06/2018
+L010,Lime Crime,Lime Crime,LAB,Labiales,4,29/06/2018
+P001,Banana Luxury 1.5 oz,Ben Nye,POL,Polvos,2,28/07/2018
+P002,Banana Luxury 3 oz,Ben Nye,POL,Polvos,4,29/07/2018
+B001,Dermacol,Dernacol,BASE,Bases,2,28/08/2018
+BR001,Set 20 Brochas,MAC,BROC,Brochas,4,29/08/2018
+BR002,Brocha Pescado,MAC,BROC,Brochas,2,28/09/2018
+BR003,Brocha Oval,MAC,BROC,Brochas,4,29/09/2018
+E001,Silicon,MAC,ESPO,Esponjas,2,28/10/2018
+E002,Beauty Blender,MAC,ESPO,Esponjas,4,29/10/2018
+S001,Anastasia Sombras,Anastasia,SOMB,Sombras,2,28/11/2018
+S002,Saniye,Saniye,SOMB,Sombras,4,29/11/2018
+S003,Stile,Stile ,SOMB,Sombras,2,28/12/2018
+I001,Set Kylie,Kylie,ILUM,Iluminador,4,29/12/2018
+I002,Profusion,Profusion,ILUM,Iluminador,2,28/01/2019
+C001,Pink 21,Pink 21,CONT,Contour,4,29/01/2019
+C002,Profusion,Profusion,CONT,Contour,2,27/02/2019
+M001,Sobres Pilaten,Pilaten,MASC,Mascarillas,4,28/02/2019
+M002,Crystal Collagen Eye Mask Pilaten,Pilaten,MASC,Mascarillas,2,28/03/2019
+C001,Lapiz para ceja,MAC,CEJA,Cejas,4,29/03/2019
+C002,Wunderbrow,MAC,CEJA,Cejas,2,30/03/2019

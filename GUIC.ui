@@ -88,8 +88,8 @@ background-color: rgb(186, 186, 186);</string>
     <property name="geometry">
      <rect>
       <x>360</x>
-      <y>160</y>
-      <width>91</width>
+      <y>150</y>
+      <width>51</width>
       <height>16</height>
      </rect>
     </property>
@@ -132,7 +132,7 @@ background-color: rgb(186, 186, 186);</string>
     <property name="geometry">
      <rect>
       <x>140</x>
-      <y>150</y>
+      <y>160</y>
       <width>191</width>
       <height>20</height>
      </rect>
@@ -145,7 +145,7 @@ background-color: rgb(186, 186, 186);</string>
     <property name="geometry">
      <rect>
       <x>140</x>
-      <y>90</y>
+      <y>100</y>
       <width>191</width>
       <height>20</height>
      </rect>
@@ -158,7 +158,7 @@ background-color: rgb(186, 186, 186);</string>
     <property name="geometry">
      <rect>
       <x>460</x>
-      <y>90</y>
+      <y>100</y>
       <width>191</width>
       <height>20</height>
      </rect>
@@ -167,7 +167,7 @@ background-color: rgb(186, 186, 186);</string>
      <string notr="true">background-color: rgb(255, 255, 255);</string>
     </property>
    </widget>
-   <widget class="QComboBox" name="combofecha">
+   <widget class="QComboBox" name="combofecha_de">
     <property name="geometry">
      <rect>
       <x>460</x>
@@ -223,6 +223,63 @@ background-color: rgb(186, 186, 186);</string>
     </property>
     <property name="text">
      <string>Estadisticas</string>
+    </property>
+   </widget>
+   <widget class="QComboBox" name="combofecha_a">
+    <property name="geometry">
+     <rect>
+      <x>460</x>
+      <y>180</y>
+      <width>191</width>
+      <height>20</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(255, 255, 255);</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelfecha_2">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>150</y>
+      <width>21</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(186, 186, 186);</string>
+    </property>
+    <property name="text">
+     <string>De:</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="labelfecha_3">
+    <property name="geometry">
+     <rect>
+      <x>430</x>
+      <y>180</y>
+      <width>21</width>
+      <height>16</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <family>Arial</family>
+      <pointsize>10</pointsize>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(186, 186, 186);</string>
+    </property>
+    <property name="text">
+     <string>A:</string>
     </property>
    </widget>
   </widget>
